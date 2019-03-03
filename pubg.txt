@@ -1,0 +1,27 @@
+github
+GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features.
+
+no. of users
+As of June 2018, GitHub reports having over 28 million users and 57 million repositories[8] (including 28 million public repositories), making it the largest host of source code in the world
+
+developed 
+GitHub was developed by Chris Wanstrath, PJ Hyett, Tom Preston-Werner and Scott Chacon using Ruby on Rails, and started in February 2008. The company, GitHub, Inc., has existed since 2007 and is located in San Francisco.
+
+GitHub Enterprise
+GitHub Enterprise is similar to GitHub's public service but is designed for use by large-scale enterprise software development teams where the enterprise wishes to host their repositories behind a corporate firewall.
+
+Mascot
+GitHub's mascot is an anthropomorphized "octocat" with five octopus-like arms.The character was created by graphic designer Simon Oxley as clip art to sell on iStock,[46] a website that enables designers to market royalty-free digital images.
+
+Organizational structure
+GitHub, Inc. was originally a flat organization with no middle managers
+
+Acquisition by Microsoft
+On June 4, 2018, Microsoft announced its intent to acquire GitHub for US$7.5 billion, and the deal closed on Oct. 26, 2018. GitHub will continue to operate independently as a community, platform and business.
+
+Education program
+GitHub launched a new program called the GitHub Student Developer Pack to give students free access to popular development tools and services.In 2016 GitHub announced the launch of the GitHub Campus Experts program[69] to train and encourage students to grow technology communities at their universities. The Campus Experts program is open to university students of 18 years and older across the world.
+
+Developed projects
+1.Atom, a free and open-source text and source code editor
+2.Electron, an open-source framework to use javascript-based websites as desktop applications.
